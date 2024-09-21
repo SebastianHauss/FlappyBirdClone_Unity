@@ -1,10 +1,6 @@
 # 🐦 Flappy Bird Clone
 
-Welcome to my **Flappy Bird Clone**! This 2D arcade game, built with **Unity** and **C#**, replicates the addictive mechanics of the original Flappy Bird. As my first game development project, it focuses on mastering fundamental concepts such as physics, UI, animations, and core gameplay mechanics.
-
-![Flappy Bird Clone Screenshot](https://imgur.com/a/SJoueFC)
-
-*Screenshot: The game features a pixelated red bird navigating between green pipes. The current score of 11 is displayed prominently in the center. The background shows a light blue sky with a cityscape silhouette and clouds. The ground is visible at the bottom, giving the game a classic side-scrolling feel.*
+Welcome to my **Flappy Bird Clone**! This 2D arcade game, built with **Unity** and **C#**, replicates the mechanics of the original Flappy Bird. As my first game development project, it focuses on mastering fundamental concepts such as physics, UI, animations, and core gameplay mechanics.
 
 ## 🎮 Gameplay
 
